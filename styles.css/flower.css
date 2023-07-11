@@ -18,6 +18,7 @@ font-size: 80px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+fon
 
 }
 
@@ -78,7 +79,11 @@ padding: 5px;
     width: 464px;
 height: 538px;
 margin: 100px;
+padding-left: 50px;
 
+}
+.flower-pink{
+    padding-left: 45px;
 }
 .flower-one{
     border-radius: 300px 300px 0px 0px;
@@ -128,6 +133,7 @@ justify-content: center;
 
 
 .banner-two{
+    padding-left: 30px;
     display: flex;
     color: #E554730D;
     padding: 30px 30px 30px 186px;
@@ -149,9 +155,7 @@ justify-content: center;
     line-height: 30px;
 }
 
-.banner-two .flow-pic{
-    width: 500px;
-}
+
 
 .btn-sign{
     border-radius: 8px;
@@ -162,8 +166,56 @@ align-items: flex-start;
 gap: 10px;
 }
 
+.insta-bold{
+    
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+line-height: normal;
+justify-content: center;
+padding: 50px 800px;
+}
 
+.insta-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding: 30px 400px;
+}
 
+.pic-four{
+    display: flex;
+    justify-items: center;
+    padding-left: 200px;
+}
+.last-banner{
+    padding: 60px 160px;
+    
+    
+}
+.get.dills{
+    display: flex;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.ban-blk {
+    background-color: #111010;
+}
+.banner-black{
+    
+}
 
 
 
